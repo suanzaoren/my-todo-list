@@ -16,4 +16,9 @@
 
 ## 在线访问
 
-若已启用 GitHub Pages，可在仓库 Settings → Pages 中查看访问地址。
+- **网页地址**：https://suanzaoren.github.io/my-todo-list/
+- **GitHub 仓库**：https://github.com/suanzaoren/my-todo-list
+
+## 数据说明
+
+任务数据保存在浏览器 localStorage（键名 `todo-app-tasks`），不会同步到 GitHub。
